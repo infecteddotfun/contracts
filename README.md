@@ -110,3 +110,7 @@ The reason for this procedure is that the distribution of the winner's rewards t
 
 1. afterGameEndsUniswapAdded (VirusFactory)
 2. aggregation (RewardWinnerPot)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
